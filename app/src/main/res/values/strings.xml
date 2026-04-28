@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">rmp_pract15_1_Savitsin</string>
+    <string name="hello">ПРИВЕТ</string>
+    <string name="naslazd">Наслаждайся отборочными.</string>
+    <string name="bud">Будь внимателен.</string>
+    <string name="delai">Делай хорошо.</string>
+    <string name="login">Войти в аккаунт</string>
+    <string name="eshe">Ещё нет аккаунта?</string>
+    <string name="zareg">Зарегистрируйтесь</string>
+    <string name="signin">Sign In</string>
+    <string name="email">Email</string>
+    <string name="pas">Пароль</string>
+    <string name="register">Register</string>
+    <string name="profile">Профиль</string>
+    <string name="vozvrat">С возвращением, Андрей!</string>
+    <string name="kakim">Каким ты себя ощущаешь сегодня?</string>
+    <string name="calm">Спокойным</string>
+    <string name="relax">Расслабленным</string>
+    <string name="concentrated">Сосредоточенным</string>
+    <string name="anxious">Взволнованным</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="zagolovok">Заголовок статьи</string>
+    <string name="kratkoe">Краткое описание</string>
+    <string name="podrobnee">Подробнее</string>
+</resources>
